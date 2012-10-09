@@ -8,12 +8,12 @@ public class GsonTest {
 	public static void main(String[] args) {
 	  int[] ints={1,2,3,4,5};
    // Gson gson=new Gson();
-	  System.out.println("нруБрБк╪р╙пч╦добоб");
+	  System.out.println("О©╫О©╫О©╫О©╫О©╫О©╫к╪р╙О©╫ч╦О©╫О©╫О©╫О©╫О©╫");
 	  /**
 	   * @author Jonny
 	   */
-	  
-	  //пч╦добйтйт
+	 System.out.println("shang bu qi");
+	  //О©╫ч╦О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 	}
 
 }
