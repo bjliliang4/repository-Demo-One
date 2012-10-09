@@ -15,7 +15,7 @@ public class GsonTest {
 	  System.out.println("冲突问题怎么解决");
 	  //修改试试
 	 System.out.println("shang bu qi");
-
+        String roomA;
 	}
 
 }
