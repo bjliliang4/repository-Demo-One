@@ -8,12 +8,14 @@ public class GsonTest {
 	public static void main(String[] args) {
 	  int[] ints={1,2,3,4,5};
    // Gson gson=new Gson();
-	  System.out.println("我这意思要修改下下");
+	  System.out.println("鐜板湪璇曡瘯锛屼竴涓濅笣");
 	  /**
 	   * @author Jonny
 	   */
-	  System.out.println("冲突问题如何解决");
-	  //修改下试试
+	  System.out.println("鍐茬獊闂鎬庝箞瑙ｅ喅");
+	  //淇敼璇曡瘯
+	 System.out.println("shang bu qi");
+
 	}
 
 }
