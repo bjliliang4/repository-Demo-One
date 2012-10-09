@@ -12,7 +12,7 @@ public class GsonTest {
 	  /**
 	   * @author Jonny
 	   */
-	  
+	  System.out.println("冲突问题如何解决");
 	  //修改下试试
 	}
 
