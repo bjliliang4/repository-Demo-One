@@ -2,6 +2,8 @@ package com.jd.gson;
 
 public class GsonTest {
 
+    
+    
 	/**
 	 * @param args
 	 */
